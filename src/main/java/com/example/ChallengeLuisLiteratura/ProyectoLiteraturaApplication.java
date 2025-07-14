@@ -1,4 +1,4 @@
-package com.example.ProyectoLiteratura;
+package com.example.ChallengeLuisLiteratura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.ProyectoLiteratura;
+package com.example.ChallengeLuisLiteratura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
